@@ -1,4 +1,4 @@
-For the dataset and model go to this link - https://drive.google.com/drive/folders/1e2-Ms1e9ar79MMl7gtEzQ8fXKad5yFP0      Here you can find all the files which are required for the project
+# DATASET -   https://drive.google.com/drive/folders/1e2-Ms1e9ar79MMl7gtEzQ8fXKad5yFP0      Here you can find all the files which are required for the project
 
 # Face-Mask-Detection
 This is the project on deep learning, it uses TensorFlow, OpenCV, and some other important libraries. This model detects the mask on your face.
