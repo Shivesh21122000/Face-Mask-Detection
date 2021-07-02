@@ -6,7 +6,7 @@ https://drive.google.com/drive/folders/1e2-Ms1e9ar79MMl7gtEzQ8fXKad5yFP0      He
 This is the project on deep learning, it uses TensorFlow, OpenCV, and some other important libraries. This model detects the mask on your face.
 
 
-    Face Mask Detection
+   ## Face Mask Detection
 
 This contains 3 sections - 1) Data Preprocessing 2) Training of Model 3) Final Prediction
 Please first go through the code and download the dataset and other provided files to deploy this model.
@@ -16,7 +16,7 @@ Please download this file, and then read the codes properly, try to understand t
 
 
 
-1) Data Preprocessing Process
+## 1) Data Preprocessing Process
 
 In this process, we are preprocessing our data like- converting images to gray, dimensionality reduction, normalization.
 
@@ -32,7 +32,7 @@ And at last, convert them into an array and save them.
 
 
 
-2) Training the data
+## 2) Training the data
 
 Using convolutional layers performing neural operations on the layers.
 
@@ -47,7 +47,7 @@ Then using model.fit() function training of our model gets started.
 
 
 
-3) Prediction Step
+## 3) Prediction Step
 
 In this, we will use our trained model, run the live camera and start the prediction. 
 
